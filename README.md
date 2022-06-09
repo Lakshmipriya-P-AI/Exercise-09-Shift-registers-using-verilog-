@@ -123,8 +123,7 @@ endmodule
 ![pisortl](https://user-images.githubusercontent.com/93427923/172881927-15831206-183d-4086-ba42-bcbe5fd93ed4.png)
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
-
-![pipowf](https://user-images.githubusercontent.com/93427923/172882043-177ac261-6295-4d63-9ca5-8abb77938d11.png)
+![172892306-187e92e6-db61-45c0-9563-f89386f33147](https://user-images.githubusercontent.com/93427923/172906212-63adf7ce-d8d8-4623-bee9-5351387fe9d9.png)
 
 ## Parallel Input Parallel Output (PIPO):
 ### RTL LOGIC  REGISTERS  
